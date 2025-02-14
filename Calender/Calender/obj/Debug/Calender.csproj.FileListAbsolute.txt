@@ -1,0 +1,4 @@
+D:\106_ub\NET\Calender\Calender\bin\Calender.dll
+D:\106_ub\NET\Calender\Calender\bin\Calender.pdb
+D:\106_ub\NET\Calender\Calender\obj\Debug\Calender.dll
+D:\106_ub\NET\Calender\Calender\obj\Debug\Calender.pdb
